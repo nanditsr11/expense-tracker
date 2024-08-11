@@ -1,0 +1,20 @@
+ExpenseTracker/
+│
+├── backend/
+│   ├── app.py
+│   ├── database.py
+│   └── utils.py
+│
+├── templates/
+│   ├── index.html
+│   ├── dashboard.html
+│   └── login.html
+│
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│
+└── main.py
